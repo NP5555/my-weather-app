@@ -1,13 +1,14 @@
 
 .container{
-background: white transparent(40px) ;
+
+/* background: white transparent(40px) ; */
 width: 607px;
 height: auto;
 margin: auto;
 margin-top:75px;
 border-radius: 12px;
-background-image: linear-gradient(180deg, #544d55 0%, #44434f 100% ) ;
-padding: 30px;
+background-image:  linear-gradient(90deg, #6e9cd1 0%, #577696 100%);
+padding: 70px;
 }
 
 .header{
